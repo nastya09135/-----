@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Roboto, sans-serif;
+background: linear-gradient(to top left, powderblue, pink);
 }
 
 .dws-wrapper {
@@ -18,7 +19,7 @@ body {
     background: #ff00aacd;
     padding: 10px;
     width: 330px;
-    background: rgba(254, 180, 180, 0.2);
+    background: rgba(231, 180, 254, 0.685);
 }
 
 .dws-form a {
@@ -71,7 +72,7 @@ label.tab.active {
 /* Формы */
 .input {
     font-size: 16px;
-    border: 2px solid #e9eaea;
+    border: 2px solid #eae9ea;
     padding: 12px 14px;
     box-sizing: border-box;
     margin-bottom: 22px;
